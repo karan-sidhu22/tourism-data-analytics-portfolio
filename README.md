@@ -17,19 +17,19 @@ The dataset simulates monthly tourism flows for Calgary, Banff, and Jasper (2023
 
 📈 Tableau Dashboards (optional) for interactive insights
 
-📂 Project Structure
 tourism-data-analytics-portfolio/
-├─ data/        # datasets + SQLite DB
-├─ docs/        # detailed report with visuals
-├─ outputs/     # generated CSVs & charts
-├─ scripts/     # helper scripts (batch/shell)
-├─ sql/         # SQL queries
-├─ src/         # Python source code
-├─ tableau/     # Tableau dashboards/screenshots
+├─ data/         # datasets + SQLite DB
+├─ docs/         # detailed report with visuals
+├─ outputs/      # generated CSVs & charts
+├─ scripts/      # helper scripts (batch/shell)
+├─ sql/          # SQL queries
+├─ src/          # Python source code
+├─ tableau/      # Tableau dashboards/screenshots
 ├─ LICENSE
 ├─ Makefile
 ├─ README.md
 └─ requirements.txt
+
 
 ⚡ Quick Start
 
